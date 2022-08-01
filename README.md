@@ -1,3 +1,3 @@
 # Statistical-Learning-Method
 
-code of some classical Machine Learning method.
+code of several classical Machine Learning methods.
